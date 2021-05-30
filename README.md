@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @kaszageri
+- 👀 I’m interested in making anything useful
+- 🌱 I’m currently learning front end
