@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @kaszageri
+- 👋 Hi, I’m @ignGeri
 - 👀 I’m interested in making anything useful
-- 🌱 I’m currently learning front end
+- 🌱 I’m currently learning front end / back end (node.js)
